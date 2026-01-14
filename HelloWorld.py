@@ -1,2 +1,3 @@
 #Hello world program in Python
-print("Hello, World!")
+emojis = ['🌍', '👋']
+print(f'Hello, World! {emojis[1]} {emojis[0]}')
